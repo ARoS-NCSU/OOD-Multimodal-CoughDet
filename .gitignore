@@ -1,0 +1,8 @@
+__pycache__
+src_models/resources/*.pt
+src_models/resources/*.npy
+src_models/.idea
+src_models/wandb/
+src_models/v1_exp/
+src_models/saved_models/
+src_models/ood/
